@@ -1,2 +1,8 @@
-# Flutter_Google_Signin_Firebase
-This is an example about signing in with google.
+# flutter_google_signin_example
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).

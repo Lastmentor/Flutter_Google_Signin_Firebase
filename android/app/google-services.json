@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "724162649842",
+    "firebase_url": "https://reactnativefirabase.firebaseio.com",
+    "project_id": "reactnativefirabase",
+    "storage_bucket": "reactnativefirabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724162649842:android:edc07569615c00c5",
+        "android_client_info": {
+          "package_name": "flutter.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724162649842-ojh4ei909jsumojoag0jkqjg3d3u6lr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flutter.example",
+            "certificate_hash": "64e40ee5be0fd9f805ac57511c9a0b6006b72f61"
+          }
+        },
+        {
+          "client_id": "724162649842-5b3o2q0tv0s5g4l865hjbtrh2fjuf6r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZveK1QHozPx15oxtDL5C8GaEOf7KDLVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724162649842-5b3o2q0tv0s5g4l865hjbtrh2fjuf6r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
